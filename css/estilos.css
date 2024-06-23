@@ -364,7 +364,7 @@ iframe {
     .item__last {
         margin-right: 4%;
     }
-    
+
     /* ESTILOS DO MENU LATERAL */
 
     .menu__lista {
@@ -374,8 +374,6 @@ iframe {
     /* ESTILOS VIDEOS */
 
     .videos__container {
-        padding-right: 10px;
-        padding-left: 248px;
+        padding: 13vh 3vh 0 22vh;
     }
-
 }
