@@ -32,7 +32,7 @@ body {
     background-color: var(--branco);
     height: 80px;
     width: 100%;
-    padding: 0 25px;
+    padding: 0 5vw 0 25px;
 }
 
 .logo__item {
@@ -285,7 +285,8 @@ body {
 
 .videos__container {
     color: black;
-    padding: 153px 20px 10px 20px;
+    padding: 170px 50px 10px 50px;
+    width: fit-content;
 }
 
 iframe {
@@ -329,6 +330,7 @@ iframe {
 
     .menu__lista {
         padding-top: 15px;
+        width: 87%;
     }
 
     .menu__lista li {
@@ -347,8 +349,7 @@ iframe {
     /*ESTILOS SEÇÃO VÍDEOS */
 
     .videos__container {
-        padding-left: 90px;
-        padding-right: 17px;
+        padding-left: 120px;
     }
 
 }
@@ -374,6 +375,7 @@ iframe {
     /* ESTILOS VIDEOS */
 
     .videos__container {
-        padding: 13vh 3vh 0 22vh;
+        /* padding: 13vh 10vh 0 35vh; */
+        padding: 170px 80px 10px 270px;
     }
 }
