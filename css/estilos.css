@@ -32,7 +32,7 @@ body {
     background-color: var(--branco);
     height: 80px;
     width: 100%;
-    padding: 0 5vw 0 25px;
+    padding: 0 5vh 0 25px;
 }
 
 .logo__item {
@@ -246,8 +246,6 @@ body {
     top: 80px;
     right: 0;
     left: 0;
-    /* transition: transform 0.5s ease-in-out;
-    transform: translateX(0); */
 }
 
 .superior__secao__container-wrapper {
@@ -375,7 +373,6 @@ iframe {
     /* ESTILOS VIDEOS */
 
     .videos__container {
-        /* padding: 13vh 10vh 0 35vh; */
         padding: 170px 80px 10px 270px;
     }
 }
